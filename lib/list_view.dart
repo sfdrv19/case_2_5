@@ -8,7 +8,7 @@ class ListViewCase extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("Список из 20-ти контейнеров"),
+          title: const Text("20 ListTile в контейнерах"),
           backgroundColor: Colors.amber,
           foregroundColor: const Color(0xff410D03),
         ),
